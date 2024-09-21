@@ -1,0 +1,2 @@
+The dataset is included in this folder.
+The Product Specifications are compiled and stored in a Mark down (Readme .md) file. The model reads every file in this folder and any sub folders as part of Knowledge base.
