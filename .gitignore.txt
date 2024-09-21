@@ -1,5 +1,0 @@
-# Ignore virtual environment
-aenv/
-
-/Data/Others
-/Scripts/Others
